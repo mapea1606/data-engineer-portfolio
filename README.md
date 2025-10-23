@@ -16,10 +16,12 @@
 | [Algorithms](https://github.com/mapea1606/project-euler-solutions) | Mathematical programming | Python |
 
 ## 📊 **Skills Progress**
+```
 ETL Pipelines:    ████████░░ 80%
 SQL:              █████████░ 90%
 Cloud (BigQuery): ███░░░░░ 30%
 Orchestration:    ██░░░░░░ 20%
+```
 
 ## 🎯 **Currently Learning**
 - dbt (SQL transformations)
