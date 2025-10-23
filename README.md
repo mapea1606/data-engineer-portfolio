@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Map Ea - Aspiring Data Engineer
+# 👋 Hi, I'm MP - Aspiring Data Engineer
 
 ## 🛠️ **Tech Stack**
 | **Category** | **Tools** |
