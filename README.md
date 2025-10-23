@@ -22,8 +22,8 @@
 
 ## 📊 **Skills Progress**
 ```
-ETL Pipelines:    ████████░░ 80%
-SQL:              █████████░ 90%
+ETL Pipelines:    ███████░░░ 70%
+SQL:              ████████░░ 80%
 Cloud:            ███░░░░░░░ 30%
 Orchestration:    ██░░░░░░░░ 20%
 ```
@@ -37,7 +37,7 @@ Orchestration:    ██░░░░░░░░ 20%
   </tr>
 </table>
 
-**💼 Open to Junior Data Engineer roles**  
+## **💼 Open to Junior Data Engineer roles**  
 📧 manuelpaguila516@gmail.com
 
 </div>
