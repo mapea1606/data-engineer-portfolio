@@ -21,10 +21,12 @@
 | [video-game-sales](https://github.com/mapea1606/video-game-sales-analysis) | **Sales Analysis**: Market trends |
 
 ## 📊 **Skills Progress**
+```
 ETL Pipelines:    ████████░░ 80%
 SQL:              █████████░ 90%
-Cloud:            ███░░░░░ 30%
-Orchestration:    ██░░░░░░ 20%
+Cloud:            ███░░░░░░░ 30%
+Orchestration:    ██░░░░░░░░ 20%
+```
 
 ## 🎯 **Currently Learning**
 <table align="center">
